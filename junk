@@ -1,0 +1,20 @@
+const a = {
+"01. ;Read list": true,
+"02. ;Make bed": true,
+"03. ;Shower": true,
+"04. ;Read with coffee/tea": false,
+"05. ;Clean and organize room": false,
+"06. ;No-fap": true,
+"07. ;No instant gratification in room": false,
+"08. ;Gym 3 time last 7 days": false,
+"09. ;Meditate": false,
+"10. ;No coffee/caffeine ≠ tea": false,
+"11. ;Early sleep (wake-up < 8:00)": false,
+"12. ;No weed": false,
+"13. ;Good food": false,
+"14. ;No smoking": true,
+
+}
+
+$fb.doc("life-list").set(a)
+
